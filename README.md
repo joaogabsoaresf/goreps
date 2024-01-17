@@ -1,0 +1,1 @@
+# Git clone made with GO
